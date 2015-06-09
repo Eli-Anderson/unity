@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/jumpBuff.js">
+    <Files>
+      <File FileName="Assets/buffSpawnManager.js" Line="21" Column="35" />
+      <File FileName="Assets/jumpBuff.js" Line="9" Column="18" />
+      <File FileName="Assets/spawnManager.js" Line="27" Column="3" />
+      <File FileName="Assets/playerBehavior.js" Line="11" Column="33" />
+      <File FileName="Assets/obstacleBehavior.js" Line="9" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
